@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+welcome to government  potytechnic hosadurga 
+</title>
+</head>
+</body bgcolor="red">
+welcome to computer science department
+</html>
+</body>
